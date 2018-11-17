@@ -1,0 +1,25 @@
+b{
+    font-family: Helvetica Neue,Helvetica,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Arial,sans-serif;
+    color: #3c8dbc;
+}
+.login-bg{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-size: cover;
+    /*图片地址*/
+    background-image:url(../image/loginBG.jpg);
+}
+.login-box{
+    position: relative;
+}
+
+.login-box-msg{
+    font-family: Helvetica Neue,Helvetica,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Arial;
+    color: #3c8dbc;
+    font-size: 24px;
+    text-align: center;
+    font-weight:bold;
+}
